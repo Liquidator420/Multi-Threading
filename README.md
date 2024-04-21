@@ -1,5 +1,3 @@
-Here's a Markdown explanation of the provided code:
-
 ---
 
 # Matrix Multiplication with Multi-Threading
@@ -57,5 +55,3 @@ The script uses the following libraries:
 This program demonstrates how multi-threading can be used to parallelize matrix multiplication, potentially improving performance for large-scale computations. The execution times for different thread counts can be analyzed to determine the optimal number of threads for a given workload.
 
 ---
-
-Feel free to modify or expand upon this explanation as needed!
